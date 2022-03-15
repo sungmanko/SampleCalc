@@ -1,0 +1,20 @@
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCalc\bin\Debug\SampleCalc.exe.config
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCalc\bin\Debug\SampleCalc.exe
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCalc\bin\Debug\SampleCalc.pdb
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCalc\obj\Debug\SampleCalc.csprojAssemblyReference.cache
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCalc\obj\Debug\SampleCalc.Form1.resources
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCalc\obj\Debug\SampleCalc.Properties.Resources.resources
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCalc\obj\Debug\SampleCalc.csproj.GenerateResource.cache
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCalc\obj\Debug\SampleCalc.csproj.CoreCompileInputs.cache
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCalc\obj\Debug\SampleCalc.exe
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCalc\obj\Debug\SampleCalc.pdb
+C:\Sample\SampleCalc\SampleCalc\bin\Debug\SampleCalc.exe.config
+C:\Sample\SampleCalc\SampleCalc\bin\Debug\SampleCalc.exe
+C:\Sample\SampleCalc\SampleCalc\bin\Debug\SampleCalc.pdb
+C:\Sample\SampleCalc\SampleCalc\obj\Debug\SampleCalc.csprojAssemblyReference.cache
+C:\Sample\SampleCalc\SampleCalc\obj\Debug\SampleCalc.Form1.resources
+C:\Sample\SampleCalc\SampleCalc\obj\Debug\SampleCalc.Properties.Resources.resources
+C:\Sample\SampleCalc\SampleCalc\obj\Debug\SampleCalc.csproj.GenerateResource.cache
+C:\Sample\SampleCalc\SampleCalc\obj\Debug\SampleCalc.csproj.CoreCompileInputs.cache
+C:\Sample\SampleCalc\SampleCalc\obj\Debug\SampleCalc.exe
+C:\Sample\SampleCalc\SampleCalc\obj\Debug\SampleCalc.pdb
